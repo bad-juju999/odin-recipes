@@ -1,0 +1,23 @@
+body {
+    background-color: blanchedalmond;
+}
+
+h1 {
+    font-weight: 900;
+}
+
+a {
+    appearance: none;
+    text-decoration: none;
+}
+
+li a {
+    color: black;
+    margin: 10px;
+}
+
+.container {
+    background-color: white;
+    border-radius: 1em;
+    width: 60%;
+}
